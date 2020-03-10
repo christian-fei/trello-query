@@ -1,0 +1,19 @@
+{
+  "name": "trello-query",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^3.5.0",
+    "nock": "^12.0.2"
+  },
+  "dependencies": {
+    "simple-trello-api": "^1.0.1"
+  }
+}
